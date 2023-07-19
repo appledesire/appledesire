@@ -1,5 +1,5 @@
 ![gitartwork](gitartwork.svg)
-# I am a Senior Developer
+# <h3 align="center"> I am a Senior Developer <h3>
 
 Experienced Web/Mobile App Developer with over 8 years of experience in developing and maintaining high-quality websites. Proficient in various programming languages, including HTML, CSS, JavaScript, Golang, PHP, Python and their related frameworks such as Gin, Echo, Beego, MERN stack, Django and Laravel. Skilled in creating responsive designs and optimizing websites for SEO as well as the Microservices. Strong knowledge of web development. Proven ability to work collaboratively with cross-functional teams and deliver projects on time and within budget. Seeking a challenging web development role that offers an opportunity for growth and professional development.
 
